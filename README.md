@@ -1,1 +1,3 @@
-# CuacaIndo-Apps-using-MVP-Pattern\n Aplikasi Cuaca di Indonesia berbasis Android yang dibangun menggunakan Model View Presenter Pattern
+# CuacaIndo-Apps-using-MVP-Pattern
+
+Aplikasi Cuaca di Indonesia berbasis Android yang dibangun menggunakan Model View Presenter Pattern
